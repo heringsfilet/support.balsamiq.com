@@ -114,13 +114,11 @@ _Note that we are not affiliated with any of these tools and can't ensure they w
 
 **Web**
 
-*   to HTML/CSS: **[nedeco converter](http://development.nedeco.de/blog/2011/11/03/balsamiq-mockups-to-htmlcss-converter/)** (freeware)
+*   to HTML/CSS: **[wire2app beta](http://www.wire2app.com/)** (freeware)
 *   to HTML/JS or GWT: [**Reify**](http://www.smartclient.com/product/reify.jsp) transforms mockups into [SmartClient](http://www.smartclient.com/product/smartclient.jsp) or [Smart GWT](http://www.smartclient.com/product/smartgwt.jsp) applications (commercial, [blog post intro](https://blog.balsamiq.com/go-from-mockup-to-code-with-reify/))
-*   to HTML/CSS/JS: try [**Napkee**](http://www.napkee.com) ([blog post intro](https://blog.balsamiq.com/napkee-launches/))
 
 **Flash**
 
-*   to MXML/AS: try [**Napkee**](http://www.napkee.com) ([blog post intro](https://blog.balsamiq.com/napkee-launches/))
 *   to MXML: try [**QXmlEdit**](http://lbell.wordpress.com/2010/09/24/generate-flex-code-from-balsamiq-mockup-sources/) (open-source)
 
 **Other Applications**
